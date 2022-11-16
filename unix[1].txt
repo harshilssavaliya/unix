@@ -1,0 +1,46 @@
+192.168.1.4  //id
+telnet	     //radio button
+
+tybca172     //username
+welcome	     //password
+
+nano q2a.sh //create and open existing file
+
+right click //paste program  
+
+ctrl + x    //exit
+ 
+y	    //save
+
+enter	   
+
+chmod u+rwx q2a.sh  //give permosion
+
+/.q2a.sh  //run program
+
+
+
+Q2
+
+nano q2b.sh //create and open existing file
+
+right click //paste program  
+
+ctrl + x    //exit
+ 
+y	    //save
+
+enter	   
+
+chmod u+rwx q2b.sh  //give permosion
+
+nano demo.sh
+
+RohanSavaliya
+tybca SEM Five
+
+/.q2a.sh  //run program
+
+
+
+
